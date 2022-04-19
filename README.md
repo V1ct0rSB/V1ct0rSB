@@ -33,6 +33,6 @@ Here are some ideas to get you started:
   <a href="https://discord.gg/V1ctor#3708" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:denvictor.sbarreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/V1ct0rSB/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/V1ct0rSB/V1ct0rSB/blob/output/github-contribution-grid-snake.svg)
  
 </div>
